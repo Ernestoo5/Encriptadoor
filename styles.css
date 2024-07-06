@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">);
+
+.2_213 { 
+	overflow:hidden;
+}
+.presentacion { 
+	background-color:rgba(110, 130, 204, 0.37);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.cuadro { 
+	box-shadow:0px 24px 32px rgba(27, 18, 110, 0.08);
+	background-color:rgba(255, 255, 255, 1);
+	width:400px;
+	height:944px;
+	position:absolute;
+	left:1000px;
+	top:40px;
+	border-top-left-radius:32px;
+	border-top-right-radius:32px;
+	border-bottom-left-radius:32px;
+	border-bottom-right-radius:32px;
+
+.mensaje__1{
+
+	position: absolute;
+	width: 120px;
+	height: 48px;
+	left: 50px;
+	top: 650px;
+	text-align: center;
+
+      
+width: 336px;
+height: 100px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+text-align: center;
+color: #020d18;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+
+.mensaje__2{
+position : absolute;
+width: 336px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 16px;
+line-height: 150%;
+
+text-align: center;
+
+
+color: #030000;
+
+
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 120px;
+height: 48px;
+left: 150px;
+top: 750px;
+text-align: center;
+
+}
+
+
+
+}
+.ingrese__texto__aqui { 
+position: absolute;
+width: 900px;
+height: 48px;
+left: 100px;
+top: 150px;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+text-decoration: dotted;
+
+
+
+
+}
+.e2_223 { 
+	width:680px;
+	height:67px;
+	position:absolute;
+	left:240px;
+	top:885px;
+}
+.boton__1{ 
+	background-color:rgb(21, 84, 100);
+	width:328px;
+	height:67px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:24px;
+	border-top-right-radius:24px;
+	border-bottom-left-radius:24px;
+	border-bottom-right-radius:24px;
+}
+.boton__encriptar { 
+	color:rgb(13, 13, 14);
+	width:280px;
+	height:19px;
+	position:absolute;
+	left:24px;
+	top:24px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+	
+}
+.boton__2{ 
+	background-color:rgba(216.00000232458115, 223.00000190734863, 232.00000137090683, 1);
+	width:328px;
+	height:67px;
+	position:absolute;
+	left:352px;
+	top:0px;
+	border-top-left-radius:24px;
+	border-top-right-radius:24px;
+	border-bottom-left-radius:24px;
+	border-bottom-right-radius:24px;
+}
+.10_144 { 
+	border:1px solid rgba(10.000000353902578, 56.000000461936, 113.00000086426735, 1);
+}
+.boton__desencriptar{ 
+	color:rgb(15, 15, 15);
+	width:280px;
+	height:19px;
+	position:absolute;
+	left:24px;
+	top:24px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.texto__1 { 
+	width:229px;
+	height:18px;
+	position:absolute;
+	left:240px;
+	top:851px;
+}
+.imagen__1 { 
+	width:16px;
+	height:16px;
+	position:absolute;
+	left:0px;
+	top:1px;
+}
+.imagen__1__1 { 
+	width:16px;
+	height:16px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.imagen__1__2 { 
+	background-color:rgba(73.00000324845314, 80.00000283122063, 87.00000241398811, 1);
+	width:16px;
+	height:16px;
+	position:absolute;
+	left:0px;
+	top:4.440892098500626e-16px;
+}
+.texto__2 { 
+	color:rgba(73.00000324845314, 80.00000283122063, 87.00000241398811, 1);
+	opacity:0.800000011920929;
+	width:205px;
+	height:18px;
+	position:absolute;
+	left:24px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.texto__cuadro { 
+	width:336px;
+	height:122px;
+	position:absolute;
+	left:1032px;
+	top:619px;
+}
+.n__m__e { 
+	color:rgba(52.000000700354576, 58.00000034272671, 64.00000378489494, 1);
+	width:336px;
+	height:58px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.texto__2__cuadro { 
+	color:rgba(73.00000324845314, 80.00000283122063, 87.00000241398811, 1);
+	width:336px;
+	height:48px;
+	position:absolute;
+	left:0px;
+	top:74px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+.imagen_1{
+    position: absolute;
+    width: 336px;
+    height: 304px;
+    left: 1032px;
+    top: 283px;
+}
+
+.imagen_2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    position: absolute;
+    width: 120px;
+    height: 48px;
+    left: 40px;
+    top: 40px;
+
+}
+
+
+
